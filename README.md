@@ -4,6 +4,8 @@ Decompiles Exe created by Py2Exe using uncompyle6 for both python 2 and 3.
 
 Contact: Amanda Rousseau (@malwareunicorn)
 
+Download the release here: [Py2ExeDecompiler.exe](Py2ExeDecompiler/bin/Release/Py2ExeDecompiler.exe)
+
 ![alt tag](ScreenShotPy2ExeDecompiler.png)
 
 ## Requirements:
